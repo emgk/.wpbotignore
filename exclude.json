@@ -101,7 +101,7 @@
     "Unlocking Power",
     "Unsecured debt",
     "US dollars",
-    "Why pay more\?",
+    "Why pay more\\?",
     "Accept Credit Cards",
     "Cards accepted",
     "Check or money order",
@@ -229,7 +229,7 @@
     "Gift certificate",
     "Giving away",
     "Guarantee",
-    "Have you been turned down\?",
+    "Have you been turned down\\?",
     "If only it were that easy",
     "Important information regarding",
     "In accordance with laws",
@@ -276,8 +276,8 @@
     "Warranty",
     "We honor all",
     "Weekend getaway",
-    "What are you waiting for\?",
-    "Who really wins\?",
+    "What are you waiting for\\?",
+    "Who really wins\\?",
     "Win",
     "Winner",
     "Winning",
@@ -433,7 +433,7 @@
     "authenticjobs.com",
     "wpshare.net",
     "gploriginals.com",
-    "themereference.com",
+    "themereference.com"
   ],
   "users": []
 }
