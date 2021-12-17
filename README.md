@@ -1,2 +1,2 @@
 # .wpbotignore
-exclude spam tweets. #BlackLivesMatter
+Add spam words, urls, or twitter username in exclude.json 
